@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josip Rubinić | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/josip-rubinic/</link>
+      <atom:link href="https://nkrvavica.github.io/author/josip-rubinic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josip Rubinić</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Josip Rubinić</title>
+      <link>https://nkrvavica.github.io/author/josip-rubinic/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Design Storms and Critical Rainfall Durations for Flood Prediction in Partially Urbanized Catchments</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-novigrad/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-novigrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Climate Change Impact on Water Supply in Northern Istria (Croatia)</title>
+      <link>https://nkrvavica.github.io/publication/karleuvsa-2018-analysis/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/karleuvsa-2018-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology for defining the design storm for sizing the infiltration system</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-metodologija/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-metodologija/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

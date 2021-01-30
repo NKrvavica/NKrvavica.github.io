@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>́ Suzana Ilić | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/suzana-ilic/</link>
+      <atom:link href="https://nkrvavica.github.io/author/suzana-ilic/index.xml" rel="self" type="application/rss+xml" />
+    <description>́ Suzana Ilić</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>́ Suzana Ilić</title>
+      <link>https://nkrvavica.github.io/author/suzana-ilic/</link>
+    </image>
+    
+    <item>
+      <title>Geomorfološke promjene minijaturnog žala na kršu</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

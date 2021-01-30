@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanja Travaš | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/vanja-travas/</link>
+      <atom:link href="https://nkrvavica.github.io/author/vanja-travas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanja Travaš</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Vanja Travaš</title>
+      <link>https://nkrvavica.github.io/author/vanja-travas/</link>
+    </image>
+    
+    <item>
+      <title>Numerical modelling of two-layer shallow water flow in microtidal salt-wedge estuaries: Finite volume solver and field validation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A field study of interfacial friction and entrainment in a microtidal salt-wedge estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-field/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt-Wedge Response to Variable River Flow and Sea-Level Rise in the Microtidal Rječina River Estuary, Croatia</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-salt/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of the morphology of open river beds for the implementation of a one-dimensional flow analysis</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2015-modelling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2015-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of method of characteristics and Preissmann scheme for flood propagation modeling with 1D Saint-Venant equations</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2014-comparison/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2014-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and Monochromatic Approach to the Definition of Hydrodynamic Load on Vertical Piles</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2014-spectral/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2014-spectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical analysis of hysteresis in rating curves for open channel flow</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2012-numerical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2012-numerical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

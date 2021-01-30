@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pluvial floods | My Academic Site</title>
+    <link>https://nkrvavica.github.io/tag/pluvial-floods/</link>
+      <atom:link href="https://nkrvavica.github.io/tag/pluvial-floods/index.xml" rel="self" type="application/rss+xml" />
+    <description>pluvial floods</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>pluvial floods</title>
+      <link>https://nkrvavica.github.io/tag/pluvial-floods/</link>
+    </image>
+    
+    <item>
+      <title>River-Sea Interaction in the Context of Climate Change</title>
+      <link>https://nkrvavica.github.io/project/uniri_mladi_2018-19/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nkrvavica.github.io/project/uniri_mladi_2018-19/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Programme for young researchers funded by the University of Rijeka, Croatia&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project nr.: 17.06.2.1.02.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project duration: July, 2018 - July, 2019&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Lead researcher: Nino Krvavica, PhD&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Project &lt;a href=&#34;https://portal.uniri.hr/Projekti/1015?controler=projekti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage&lt;/a&gt; (in Croatian)&lt;/p&gt;
+&lt;p&gt;Floods in coastal areas are occurring more frequently because of climate changes, especially due to more pronounced extreme precipitations and storm surges from the seas. Until now, these two phenomena have been observed separately, and only recently, the interaction between the sea and rivers has begun to be considered as an integral process. In the Republic of Croatia, there are many coastal areas that are exposed to flood hazards equally from the sea and land. However, the processes that take place due to the interaction between freshwater and saltwater in the coastal areas are still not sufficiently examined, especially under sudden flow changes such as flood waves, and in highly stratified conditions characteristic of the Adriatic Sea.&lt;/p&gt;
+&lt;p&gt;The proposed research will focus on an integrated understanding of the dynamics of the saltwater and freshwater under the influence of river flow, tides and waves, as well as floods due to the coincidence of extreme precipitation and storm surges. In addition to hydrodynamic processes, the sediment transport and the corresponding morphological changes in coastal areas will be investigated. This research will be based on specialized numerical models, original mathematical models and field measurements. As part of the field measurement campaigns, the scientific equipment from the laboratory of the Faculty of Civil Engineering will be activated, which was obtained through the project Research infrastructure development at the Campus of the University of Rijeka (RISK).&lt;/p&gt;
+&lt;p&gt;The aim of the proposed research is to carry out extensive flood simulations, including the non-linear interaction between storm surges, sea waves and river flows. For this purpose, a combination of various open-source computer programs will be used. Also, one of the goals is to improve our own numerical model (STREAM) by including: non-steady flow calculation of three layers of different densities, boundary conditions describing realistic waves, and sediment transport. Finally, field measurements aim to measure and better understand mixing intensities and friction on the interface between freshwater and saltwater layers, establish systematic wave measurements in the Bay of Rijeka, and improve the methodology for measuring coastal morphological changes using SfM photogrammetry.&lt;/p&gt;
+&lt;p&gt;Under his project, the research will result in the development of flood forecasting methodology that accounts for the river-sea interaction, in the increase of the existing knowledge on saltwater and freshwater interaction in the coastal area, in the definition of the appropriate wave spectrum for the Bay of Rijeka, and in the open-source STREAM numerical model which will become available to a wider scientific and professional community. In addition, cooperation and partnership with other departments at the University of Rijeka and colleagues from other universities in the country and abroad will be initiated. Finally, the proposed research will intensify the integration of the University of Rijeka into the European research community and stimulate the transfer of knowledge and technology to the business sector.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

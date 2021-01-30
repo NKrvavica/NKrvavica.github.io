@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nino Krvavica | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/nino-krvavica/</link>
+      <atom:link href="https://nkrvavica.github.io/author/nino-krvavica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nino Krvavica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Nino Krvavica</title>
+      <link>https://nkrvavica.github.io/author/nino-krvavica/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Design Storms and Critical Rainfall Durations for Flood Prediction in Partially Urbanized Catchments</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-novigrad/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-novigrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent numerical model for simulating internal oscillations in a sea organ</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of sea-level rise impacts on salt-wedge intrusion in idealized and Neretva River Estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-sealevelrise/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-sealevelrise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-evaluating efficiency of first-order numerical schemes for two-layer shallow water systems by considering different eigenvalue solutions</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-reevaluating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-reevaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Coastal Vulnerability Index in an Area of Complex Geological Conditions on the Krk Island, Northeast Adriatic Sea</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical implementation of Roe solver for two-layer shallow water equations with accurate treatment for loss of hyperbolicity</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-analytical/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-analytical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Climate Change Impact on Water Supply in Northern Istria (Croatia)</title>
+      <link>https://nkrvavica.github.io/publication/karleuvsa-2018-analysis/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/karleuvsa-2018-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology for defining the design storm for sizing the infiltration system</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-metodologija/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-metodologija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geomorfološke promjene minijaturnog žala na kršu</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated computational model for Sea Organ simulation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approach to flap-type wavemaker equation with wave breaking limit</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relevance of turbulent mixing in estuarine numerical models for two-layer shallow water flow</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-relevance/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-relevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modelling of two-layer shallow water flow in microtidal salt-wedge estuaries: Finite volume solver and field validation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A field study of interfacial friction and entrainment in a microtidal salt-wedge estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-field/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt-Wedge Response to Variable River Flow and Sea-Level Rise in the Microtidal Rječina River Estuary, Croatia</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-salt/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analiza procjene intenziteta oborine pomoću X-band radara</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of the morphology of open river beds for the implementation of a one-dimensional flow analysis</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2015-modelling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2015-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of method of characteristics and Preissmann scheme for flood propagation modeling with 1D Saint-Venant equations</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2014-comparison/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2014-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimaton of maximum short-term precipitation over the Rijeka region</title>
+      <link>https://nkrvavica.github.io/publication/gajic-2014-estimaton/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/gajic-2014-estimaton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and Monochromatic Approach to the Definition of Hydrodynamic Load on Vertical Piles</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2014-spectral/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2014-spectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement and analysis of salinization at the Rječina estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical analysis of hysteresis in rating curves for open channel flow</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2012-numerical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2012-numerical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

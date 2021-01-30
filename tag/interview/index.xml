@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interview | My Academic Site</title>
+    <link>https://nkrvavica.github.io/tag/interview/</link>
+      <atom:link href="https://nkrvavica.github.io/tag/interview/index.xml" rel="self" type="application/rss+xml" />
+    <description>interview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>interview</title>
+      <link>https://nkrvavica.github.io/tag/interview/</link>
+    </image>
+    
+    <item>
+      <title>Interview for an online magazine Stilueta</title>
+      <link>https://nkrvavica.github.io/talk/interview-for-an-online-magazine-stilueta/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://nkrvavica.github.io/talk/interview-for-an-online-magazine-stilueta/</guid>
+      <description>&lt;h2 id=&#34;iterview-for-stilueta&#34;&gt;Iterview for Stilueta&lt;/h2&gt;
+&lt;p&gt;In March 2020 I gave an &lt;a href=&#34;https://stilueta.net/grad-znanja-kava-kolac-more-i-rijeka-nina-krvavice/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt; for an online magazine Stilueta, where I talked about my scientific work, life as a scientist, my background, and free time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific talk for the Radio Rijeka</title>
+      <link>https://nkrvavica.github.io/talk/scientific-talk-for-the-radio-rijeka/</link>
+      <pubDate>Sun, 12 Jan 2020 19:30:00 +0000</pubDate>
+      <guid>https://nkrvavica.github.io/talk/scientific-talk-for-the-radio-rijeka/</guid>
+      <description>&lt;h2 id=&#34;iterview-for-radio-rijeka&#34;&gt;Iterview for radio Rijeka&lt;/h2&gt;
+&lt;p&gt;In the January of 2020 I gave an &lt;a href=&#34;https://radio.hrt.hr/radio-rijeka/ep/nino-krvavica-rjecina-kao-model/328526/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt; for a local radio station Rijeka, and I talked about my scientific work, current research and future plans.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

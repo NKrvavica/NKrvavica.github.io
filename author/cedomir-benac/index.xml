@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Čedomir Benac | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/cedomir-benac/</link>
+      <atom:link href="https://nkrvavica.github.io/author/cedomir-benac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Čedomir Benac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Čedomir Benac</title>
+      <link>https://nkrvavica.github.io/author/cedomir-benac/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of the Coastal Vulnerability Index in an Area of Complex Geological Conditions on the Krk Island, Northeast Adriatic Sea</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geomorfološke promjene minijaturnog žala na kršu</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

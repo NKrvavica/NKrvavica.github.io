@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivana Radman | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/ivana-radman/</link>
+      <atom:link href="https://nkrvavica.github.io/author/ivana-radman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivana Radman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Ivana Radman</title>
+      <link>https://nkrvavica.github.io/author/ivana-radman/</link>
+    </image>
+    
+    <item>
+      <title>Numerical analysis of hysteresis in rating curves for open channel flow</title>
+      <link>https://nkrvavica.github.io/publication/travavs-2012-numerical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/travavs-2012-numerical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

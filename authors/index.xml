@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | My Academic Site</title>
+    <link>https://nkrvavica.github.io/authors/</link>
+      <atom:link href="https://nkrvavica.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Authors</title>
+      <link>https://nkrvavica.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

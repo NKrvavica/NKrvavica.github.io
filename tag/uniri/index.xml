@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uniri | My Academic Site</title>
+    <link>https://nkrvavica.github.io/tag/uniri/</link>
+      <atom:link href="https://nkrvavica.github.io/tag/uniri/index.xml" rel="self" type="application/rss+xml" />
+    <description>uniri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>uniri</title>
+      <link>https://nkrvavica.github.io/tag/uniri/</link>
+    </image>
+    
+    <item>
+      <title>Award for the best scientist at the University of Rijeka in 2018 in technical and biotechnical sciences</title>
+      <link>https://nkrvavica.github.io/talk/award-for-the-best-scientist-at-the-university-of-rijeka-in-2018-in-technical-and-biotechnical-sciences/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nkrvavica.github.io/talk/award-for-the-best-scientist-at-the-university-of-rijeka-in-2018-in-technical-and-biotechnical-sciences/</guid>
+      <description>&lt;p&gt;In December 2019, I received an award from Scientific Foundation for the best scientist at the University of Rijeka for 2018 in technical and biotechnical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

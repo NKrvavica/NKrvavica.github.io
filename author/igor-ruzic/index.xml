@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Ružić | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/igor-ruzic/</link>
+      <atom:link href="https://nkrvavica.github.io/author/igor-ruzic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Igor Ružić</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>Igor Ružić</title>
+      <link>https://nkrvavica.github.io/author/igor-ruzic/</link>
+    </image>
+    
+    <item>
+      <title>Time-dependent numerical model for simulating internal oscillations in a sea organ</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of sea-level rise impacts on salt-wedge intrusion in idealized and Neretva River Estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-sealevelrise/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-sealevelrise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Coastal Vulnerability Index in an Area of Complex Geological Conditions on the Krk Island, Northeast Adriatic Sea</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2019-geosciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geomorfološke promjene minijaturnog žala na kršu</title>
+      <link>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/ruvzic-2018-geomorfolovske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated computational model for Sea Organ simulation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approach to flap-type wavemaker equation with wave breaking limit</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analiza procjene intenziteta oborine pomoću X-band radara</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement and analysis of salinization at the Rječina estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

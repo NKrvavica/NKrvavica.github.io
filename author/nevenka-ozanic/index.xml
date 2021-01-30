@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>́ Nevenka Ožanić | My Academic Site</title>
+    <link>https://nkrvavica.github.io/author/nevenka-ozanic/</link>
+      <atom:link href="https://nkrvavica.github.io/author/nevenka-ozanic/index.xml" rel="self" type="application/rss+xml" />
+    <description>́ Nevenka Ožanić</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>́ Nevenka Ožanić</title>
+      <link>https://nkrvavica.github.io/author/nevenka-ozanic/</link>
+    </image>
+    
+    <item>
+      <title>Time-dependent numerical model for simulating internal oscillations in a sea organ</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2020-seaorgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated computational model for Sea Organ simulation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approach to flap-type wavemaker equation with wave breaking limit</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relevance of turbulent mixing in estuarine numerical models for two-layer shallow water flow</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2018-relevance/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2018-relevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modelling of two-layer shallow water flow in microtidal salt-wedge estuaries: Finite volume solver and field validation</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2017-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A field study of interfacial friction and entrainment in a microtidal salt-wedge estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-field/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt-Wedge Response to Variable River Flow and Sea-Level Rise in the Microtidal Rječina River Estuary, Croatia</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-salt/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analiza procjene intenziteta oborine pomoću X-band radara</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2016-analiza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimaton of maximum short-term precipitation over the Rijeka region</title>
+      <link>https://nkrvavica.github.io/publication/gajic-2014-estimaton/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/gajic-2014-estimaton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement and analysis of salinization at the Rječina estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2012-mjerenje/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

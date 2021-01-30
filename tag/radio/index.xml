@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radio | My Academic Site</title>
+    <link>https://nkrvavica.github.io/tag/radio/</link>
+      <atom:link href="https://nkrvavica.github.io/tag/radio/index.xml" rel="self" type="application/rss+xml" />
+    <description>radio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2020 19:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
+      <title>radio</title>
+      <link>https://nkrvavica.github.io/tag/radio/</link>
+    </image>
+    
+    <item>
+      <title>Scientific talk for the Radio Rijeka</title>
+      <link>https://nkrvavica.github.io/talk/scientific-talk-for-the-radio-rijeka/</link>
+      <pubDate>Sun, 12 Jan 2020 19:30:00 +0000</pubDate>
+      <guid>https://nkrvavica.github.io/talk/scientific-talk-for-the-radio-rijeka/</guid>
+      <description>&lt;h2 id=&#34;iterview-for-radio-rijeka&#34;&gt;Iterview for radio Rijeka&lt;/h2&gt;
+&lt;p&gt;In the January of 2020 I gave an &lt;a href=&#34;https://radio.hrt.hr/radio-rijeka/ep/nino-krvavica-rjecina-kao-model/328526/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt; for a local radio station Rijeka, and I talked about my scientific work, current research and future plans.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
